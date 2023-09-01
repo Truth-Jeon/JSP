@@ -33,7 +33,7 @@
 </head>
 <body>
 	<div class="container">
-		<form action="" method="post" class="form">
+		<form action="travel_add" method="post" class="form">
 			<h1><i class="fa-solid fa-plane-departure"></i> 관광지 등록</h1>
 			<div class="form-group">
 				<label> 권역</label>
