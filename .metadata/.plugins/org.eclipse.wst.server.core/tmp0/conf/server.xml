@@ -160,7 +160,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/Users/jeonhayoon/Documents/backend_workspace/03_jspservlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/jeonhayoon/Documents/backend_workspace/03_jspservlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/chapter07" path="/chapter07" reloadable="true" source="org.eclipse.jst.jee.server:chapter07"/></Host>
+      <Context docBase="/Users/jeonhayoon/Documents/backend_workspace/03_jspservlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/jeonhayoon/Documents/backend_workspace/03_jspservlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/chapter07" path="/chapter07" reloadable="true" source="org.eclipse.jst.jee.server:chapter07"/><Context docBase="/Users/jeonhayoon/Documents/backend_workspace/03_jspservlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/chapter08" path="/chapter08" reloadable="true" source="org.eclipse.jst.jee.server:chapter08"/></Host>
     </Engine>
   </Service>
 </Server>
